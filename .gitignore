@@ -1,0 +1,3 @@
+./client/.*
+./client/dist
+./client/node_modules
